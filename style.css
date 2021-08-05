@@ -1,0 +1,16 @@
+.main{
+    width: 500px;
+    margin: 300px auto;
+}
+.header{
+    background-color: bisque;
+    padding: 20px 30px;
+    text-align: center;
+
+}
+.body{
+    background-color: aliceblue;
+    padding: 20px 45px;
+    text-align: center;
+
+}
